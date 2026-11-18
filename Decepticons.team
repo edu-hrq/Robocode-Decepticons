@@ -3,5 +3,5 @@
 robocode.version=1.12.0
 team.author.name=
 team.description=Os bicho \u00E9 do mal.
-team.members=Decepticons.ShockScream*,Decepticons.SniperTron*
+team.members=decepticons.ShockScream*,decepticons.SniperTron*
 team.version=
