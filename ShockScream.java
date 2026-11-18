@@ -25,7 +25,9 @@ public class ShockScream extends TeamRobot {
             int k = (int) (Math.random() * 180);
 
             ahead(i); // se mexerá aleatoriamente p/ frente
+            turnRadarRight(360); // gira o radar em 360 graus
             turnRight(j); // se mexerá aleatoriamente p/ direita
+            turnRadarRight(360); // gira o radar em 360 graus
             back(k); // se mexerá aleatoriamente p/ trás
 
             turnRadarRight(360); // gira o radar em 360 graus
