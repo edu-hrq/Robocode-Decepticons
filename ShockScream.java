@@ -1,4 +1,4 @@
-package Decepticons;
+package decepticons;
 
 import robocode.*;
 import robocode.util.Utils;
