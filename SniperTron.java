@@ -40,7 +40,7 @@ public class SniperTron extends TeamRobot {
 
     /* Executado quando o robô é atingido por um tiro */
 
-    public void onBulletHit(){
+    public void onBulletHit(BulletHitEvent e){
         setGunColor(Color.red);
         turnRight(360);
         setGunColor(Color.green);
