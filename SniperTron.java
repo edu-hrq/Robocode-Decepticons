@@ -1,4 +1,4 @@
-package Decepticons;
+package decepticons;
 
 import java.awt.Color;
 import robocode.*;
